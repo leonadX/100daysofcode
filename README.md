@@ -6,3 +6,6 @@ I implemented a UI design with flutter using dart. The design is a about page fo
 
 DAY 2:
 I played around with FloatingActionButton class in Flutter to create a ninja profile UI... lol
+
+DAY 3:
+I implemented the graph algorithm, Breadth First Search in C++
