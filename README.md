@@ -9,3 +9,6 @@ I played around with FloatingActionButton class in Flutter to create a ninja pro
 
 DAY 3:
 I implemented the graph algorithm, Breadth First Search in C++
+
+DAY 4:
+I wrote a C++ code to find the shortest path in an unweighted graph using the Breadth First Search algorithm.
