@@ -12,3 +12,6 @@ I implemented the graph algorithm, Breadth First Search in C++
 
 DAY 4:
 I wrote a C++ code to find the shortest path in an unweighted graph using the Breadth First Search algorithm.
+
+DAY 5:
+I went into problem solving. Had a go at a problem from the International Olympiad in Informatics 2012 in Italy (Ideal City). I applied Breadth First Search algorithm to solve the problem, partially though... lol
